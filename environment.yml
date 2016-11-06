@@ -2,5 +2,6 @@ name: nb-livereload
 channels:
   - conda-forge
 dependencies:
-  - notebook
   - livereload
+  - notebook
+  - setuptools
