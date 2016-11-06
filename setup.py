@@ -16,7 +16,7 @@ with open('./README.rst') as readme:
 setup(
     name="nblivereload",
     version=__version__,
-    description="Next generation slides from Jupyter Notebooks",
+    description="Autoreload static files in the Jupyter Notebook",
     long_description=README,
     author="Nicholas Bollweg",
     author_email="nbollweg@continuum.io",
