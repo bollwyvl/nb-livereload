@@ -25,7 +25,7 @@ http://localhost:8888/livereload/files/ThisNotebook.html
 ## Installing
 ```
 conda install -c conda-forge livereload notebook
-pip install git+https://github.com/bollwybl/nb-livereload#egg=nb-livereload
+pip install git+https://github.com/bollwyvl/nb-livereload#egg=nb-livereload
 jupyter serverextension enable --py --sys-prefix nblivereload
 jupyter notebook
 ```
